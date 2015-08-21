@@ -1,4 +1,4 @@
 # panda
-panda520home web
-
-#
+```
+	node ./bin/www
+```
