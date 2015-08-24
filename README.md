@@ -1,4 +1,12 @@
 # panda
+
+first download [node](https://nodejs.org/)
+and
 ```
-	node ./bin/www
+npm install -g http-server
+```
+
+run web
+```
+http-server -c-1
 ```
